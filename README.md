@@ -11,7 +11,7 @@
   
 * Viterbi Part-of-speech Tagger:
   * Collected and Stored raw counts of all the words and the tags of the training dataset
-  * Implemented the Viterbi Algorithm and applied it on the test dataset(assigned part-of-speech tags to all the words in the test dataset)
+  * Implemented the Viterbi Algorithm and applied it on the test dataset (assigned part-of-speech tags to all the words in the test dataset)
   
 * Baseline Program - Part-of-speech Tagger:
   * Collected and Stored raw counts of all the words and the tags of the training dataset
